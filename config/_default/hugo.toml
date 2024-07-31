@@ -1,0 +1,5 @@
+baseURL = 'https://nikhilreji.com/'
+languageCode = 'en-us'
+title = 'Nikhil Reji'
+theme = 'PaperMod'
+
